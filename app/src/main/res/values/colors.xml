@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#7f7b7b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="category_Number">#FFAB40</color>
+    <color name="category_Family">#AFB42B</color>
+    <color name="category_Color">#7E57C2</color>
+    <color name="category_Phrase">#c4a8f4</color>
+    <color name="category_Letter">#de82dc</color>
+    <color name="category_Animal">#AFB42B</color>
+    <color name="category_Story">#C0CA33</color>
+    <color name="category_Conversation">#EF9A9A</color>
+</resources>
